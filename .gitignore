@@ -1,0 +1,9 @@
+node_modules
+.next
+.env*.local
+.env
+next-env.d.ts
+*.tsbuildinfo
+# runtime data (keep the seed files, ignore uploads)
+storage/uploads/*
+!storage/uploads/.gitkeep

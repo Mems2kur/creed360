@@ -1,0 +1,115 @@
+[
+  {
+    "id": "995c32cf-ef52-45b5-a15b-3eef3c9556c1",
+    "title": "600 sqm residential plot",
+    "type": "Land",
+    "location": "Sangotedo, Eti-Osa",
+    "state": "Lagos",
+    "price": 28000000,
+    "size": "600 sqm",
+    "titleDocument": "C of O",
+    "description": "SAMPLE LISTING \u2014 edit or delete this from the admin dashboard before going live.\n\nDry, fenced plot in a developing residential estate off the Lekki\u2013Epe Expressway.",
+    "features": [
+      "Gated estate",
+      "Dry land",
+      "Good road network"
+    ],
+    "paymentOptions": [
+      "Outright",
+      "Payment plan"
+    ],
+    "images": [],
+    "verification": {
+      "status": "verified",
+      "checks": {
+        "property": true,
+        "location": true,
+        "documentation": true,
+        "survey": true,
+        "advisory": true,
+        "decision": true
+      },
+      "notes": "Title reviewed; boundary beacons confirmed on site.",
+      "verifiedAt": "2026-10-01T09:00:00.000Z"
+    },
+    "published": true,
+    "featured": true,
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "526907ee-cac2-4068-8c17-44099f422d8e",
+    "title": "4-bedroom terrace duplex",
+    "type": "House",
+    "location": "Ajah",
+    "state": "Lagos",
+    "price": 95000000,
+    "size": "250 sqm",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "titleDocument": "Governor's Consent",
+    "description": "SAMPLE LISTING \u2014 edit or delete this from the admin dashboard before going live.\n\nNewly built terrace duplex with a BQ in a serviced estate.",
+    "features": [
+      "BQ",
+      "Fitted kitchen",
+      "24/7 security"
+    ],
+    "paymentOptions": [
+      "Outright",
+      "Mortgage"
+    ],
+    "images": [],
+    "verification": {
+      "status": "verified",
+      "checks": {
+        "property": true,
+        "location": true,
+        "documentation": true,
+        "survey": true,
+        "advisory": true,
+        "decision": true
+      },
+      "notes": "Documentation and location verified.",
+      "verifiedAt": "2026-10-03T09:00:00.000Z"
+    },
+    "published": true,
+    "featured": true,
+    "createdAt": "2026-10-03T09:00:00.000Z",
+    "updatedAt": "2026-10-03T09:00:00.000Z"
+  },
+  {
+    "id": "f12a028f-edc7-4c34-8557-38d228a4dc8a",
+    "title": "1,000 sqm commercial plot",
+    "type": "Commercial",
+    "location": "Epe",
+    "state": "Lagos",
+    "price": 18000000,
+    "size": "1,000 sqm",
+    "titleDocument": "Registered Survey",
+    "description": "SAMPLE LISTING \u2014 edit or delete this from the admin dashboard before going live.\n\nRoad-facing commercial plot close to the Epe township.",
+    "features": [
+      "Road frontage",
+      "Corner piece"
+    ],
+    "paymentOptions": [
+      "Outright"
+    ],
+    "images": [],
+    "verification": {
+      "status": "in_review",
+      "checks": {
+        "property": true,
+        "location": true,
+        "documentation": true,
+        "survey": false,
+        "advisory": false,
+        "decision": false
+      },
+      "notes": ""
+    },
+    "published": true,
+    "featured": false,
+    "createdAt": "2026-10-05T09:00:00.000Z",
+    "updatedAt": "2026-10-05T09:00:00.000Z"
+  }
+]
